@@ -27,21 +27,21 @@ I am a Operator from battery industy <img src="https://media.giphy.com/media/WUl
 ### :hammer_and_wrench: Languages :
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
   </a>
 </div>
 
 ### :hammer_and_wrench: Tools :
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
+    <img src="https://skillicons.dev/icons?i=git,react,vite" />
   </a>
 </div>
 
 ### :hammer_and_wrench: Software :
 <div>
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://skillicons.dev/icons?i=figma,github,vscode" />
   </a>
 </div>
 
